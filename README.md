@@ -71,18 +71,6 @@ Extracting structure from high-dimensional financial data.
 
 ---
 
-## Philosophy
-
-I am interested in models that are:
-
-- **mechanistically grounded** (not purely statistical)  
-- **mathematically tractable**  
-- **empirically testable**  
-
-The goal is to build systems that connect theory → simulation → data.
-
----
-
 ## Links
 
 - [LinkedIn](https://linkedin.com/in/williamweichiyao)  
